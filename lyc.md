@@ -59,8 +59,8 @@ String teachernumber=b.getNumber();
 		System.out.println("教师姓名 :"+courseteacher);
 ```
 ## 4.实验结果
-```
+
        https://github.com/lyc-eng/Selectcourse/blob/main/ww.png
-```
+
 ## 5.实验感想
 
